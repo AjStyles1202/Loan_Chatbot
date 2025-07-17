@@ -36,6 +36,10 @@ RAG/
 ### 2. ML model predicts whether the user is eligible.
 ### 3. If eligible or not, a local Hugging Face model explains the decision using loan policy context.
 
+
+https://github.com/user-attachments/assets/2a3e1511-1524-4b42-853d-20543d6cc0ca
+
+
 ---
 
 ## 🧪 Technologies Used
