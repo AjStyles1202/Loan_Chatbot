@@ -1,4 +1,3 @@
-# Loan_Chatbot
 # 🧠 RAG: Loan Eligibility Chatbot using ML + Generative AI (Local)
 
 This project combines a traditional machine learning model with a lightweight generative AI model from Hugging Face to create an intelligent chatbot. The goal is to **predict loan eligibility** and provide a **natural language explanation** based on official loan policies.
@@ -105,11 +104,6 @@ Loan amount should not exceed 60% of net monthly income.
 Married applicants with fewer dependents and stable jobs are prioritized.
 📸 Screenshots
 Add screenshots of the Streamlit app output, form, and explanation block here.
-
-🧑‍💻 Contributors
-Ayush Jain – ML Developer
-
-OpenAI GPT Tutor – Project Guidance & Coding Support
 
 📄 License
 This project is licensed under the MIT License – feel free to use, improve, and share.
